@@ -2,5 +2,8 @@ body {
     background-color: #e5ecff
 }
 h1 {
-    text-align: center;
+    text-indent: 60px;
+}
+p {
+    text-indent: 150px;
 }
